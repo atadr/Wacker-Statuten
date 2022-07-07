@@ -14,4 +14,4 @@ Drittes Hauptstück: Das demokratische Leben des FC Wacker Innsbruck
 Viertes Hauptstück: Schlussbestimmungen
 </center>
 
-[Präambel.md]
+[Präambel](Präambel.md)
